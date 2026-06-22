@@ -22,7 +22,7 @@ Este projeto é um rastreador de treinos Full Body, desenvolvido para ajudar no 
 
 Este projeto está disponível online via GitHub Pages. 
 
-<!-- Adicionar link do GitHub Pages aqui quando estiver configurado. -->
+https://Drywsz.github.io/workout-tracker/
 
 ## ⚙️ Como Rodar Localmente
 
